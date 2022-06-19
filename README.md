@@ -1,6 +1,6 @@
 a- 👋 Hi, I’m @Luizfcs35
 - 👀 I’m interested in ...
-Programação em Python
+Programação em HTML/CSS/JS...PYTHON.
 - 🌱 I’m currently learning ...Análise e desenvolvimento de Sistemas
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Sou de São jospe dos Campos/SP
