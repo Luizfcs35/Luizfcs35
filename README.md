@@ -24,7 +24,8 @@
 ## Estudando atualmente 
 *  *Análise e desenvolvimento* de  Sistemas - Anhanguera Educacional
 *  *Java Script* - Curso completo com Projeto reais - Instituto Udemy
-* *Web design completo* -  App GetMimo
+*  *Web design completo* -  App GetMimo
+*  *JavaScriptDeveloper* - DIO: Digital Innovation One 
 
 
 ### Contato
