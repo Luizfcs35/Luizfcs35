@@ -1,7 +1,10 @@
-#  *Olá me chamo Luiz Fernando Castro de Souza*
+##  *Olá me chamo Luiz Fernando*
 
-## Interesses 
-### Tenho 35 anos, Sou apaixonado por Programação e tecnologia
+### Interesses 
+
+ Estou a procura de uma vaga de estágio ou Júnior.
+ Tenho 35 anos, Sou apaixonado por tecnologia e programação!
+
 
 ## Conhecimentos
 * HTML5
