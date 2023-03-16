@@ -2,9 +2,9 @@
 
 ### Interesses 
 
- Estou a procura de uma vaga de estágio ou Júnior.
- Tenho 35 anos, Sou apaixonado por tecnologia e programação!
+Estou a procura de uma vaga de estágio ou Júnior.
 
+Tenho 35 anos, Sou apaixonado por tecnologia e programação!
 
 ## Conhecimentos
 * HTML5
