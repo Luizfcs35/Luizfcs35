@@ -5,6 +5,11 @@
 Estou a procura de uma vaga de estágio ou Júnior.
 
 Tenho 35 anos, Sou apaixonado por tecnologia e programação!
+<div>
+  <a hef="https://github.com/Luizfcs35/Luizfcs35/">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizfcs35&theme=blue-green" />
+<img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfcs35&theme=blue-green">
+</div>
 
 ## Conhecimentos
 * HTML5
