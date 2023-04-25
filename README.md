@@ -51,7 +51,11 @@ Natural: São José dos Campos/SP.
 
 ### Contato
 * 📩 fernandesbiker10@gmail.com
+  
 * [Linkedin](https://www.linkedin.com/in/luiz-fernando-castro-de-souza-18991a189/)
+  
+![Snake animation](https://github.com/seu-usuário-aqui/Luizfcs35/blob/output/github-contribution-grid-snake.svg)
+  
 <!---
 Luizfcs35/Luizfcs35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
