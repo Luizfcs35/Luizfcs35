@@ -1,18 +1,26 @@
-##  *Olá me chamo Luiz Fernando*
+##  *Olá me chamo Luiz*
 
 ### Interesses 
 
+Sou apaixonado por tecnologia e programação!
+
 Estou a procura de uma vaga de estágio ou Júnior.
 
-Tenho 35 anos, Sou apaixonado por tecnologia e programação!
-<div>
-<a href="https://github.com/Luizfcs35/Luizfcs35/">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfcs35/Luizfcs35/&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizfcs35/Luizfcs35/Luizfcs35/&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+Idade: 35 anos.
+
+Natural: São José dos Campos/SP.
+  
+<div align="center">
+  <a href="https://github.com/Luizfcs35/Luizfcs35/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizfcs35&show_icons=true&theme=codeSTACKr&border_radius=1em" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfcs35&layout=compact&theme=codeSTACKr&border_radius=1em" />
+    
+</div> 
   
 
+
 ## Conhecimentos
+  
 * HTML5
 * CSS3
 * JS basic
@@ -21,14 +29,14 @@ Tenho 35 anos, Sou apaixonado por tecnologia e programação!
 * REACT Basic
 * PYTHON Basic
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50"/>
+<div align="center" width="100%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50"/>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />     
 </div>
 
 ## Formação
