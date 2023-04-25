@@ -1,14 +1,22 @@
+  
 ##  *Olá me chamo Luiz*
 
-### Interesses 
+<div>
+  <div align="end">
+    <img src="https://user-images.githubusercontent.com/90050988/234340765-0719bc83-dce5-4121-ab81-4874cc8b3709.png" width="300"/>
+  </div>
+  
+  ### Interesses 
+  
+  Sou apaixonado por tecnologia e programação!
+  
+  Estou a procura de uma vaga de estágio ou Júnior.
 
-Sou apaixonado por tecnologia e programação!
+  Idade: 35 anos.
 
-Estou a procura de uma vaga de estágio ou Júnior.
+  Natural: São José dos Campos/SP.
+</div>
 
-Idade: 35 anos.
-
-Natural: São José dos Campos/SP.
   
 <div>
   <a href="https://github.com/Luizfcs35/Luizfcs35/">
