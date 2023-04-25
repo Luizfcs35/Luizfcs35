@@ -6,10 +6,11 @@ Estou a procura de uma vaga de estágio ou Júnior.
 
 Tenho 35 anos, Sou apaixonado por tecnologia e programação!
 <div>
-  <a hef="https://github.com/Luizfcs35/Luizfcs35/">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizfcs35&theme=blue-green" />
-<img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfcs35&theme=blue-green">
+<a href="https://github.com/Luizfcs35/Luizfcs35/">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfcs35/Luizfcs35/&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizfcs35/Luizfcs35/Luizfcs35/&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
 
 ## Conhecimentos
 * HTML5
@@ -20,17 +21,21 @@ Tenho 35 anos, Sou apaixonado por tecnologia e programação!
 * REACT Basic
 * PYTHON Basic
 
-![image](https://user-images.githubusercontent.com/90050988/204033338-35682d9d-2f79-4224-ae61-dbd9b855ba47.png)
-![image](https://user-images.githubusercontent.com/90050988/204031728-53a048db-96d4-4b5b-9898-33bbb2ebbde3.png)
-![image](https://user-images.githubusercontent.com/90050988/204032032-ad143321-8fe4-4ccb-813e-d7d036a94674.png)
-![image](https://user-images.githubusercontent.com/90050988/204032130-4e5425c9-079b-4528-8fe4-d668c9fe080b.png)
-![image](https://user-images.githubusercontent.com/90050988/204032533-63e70f87-b485-4c05-a558-a6ab2db7eafd.png)
-![image](https://user-images.githubusercontent.com/90050988/204032636-7a9af967-5c51-45a4-8659-3e27a8c63640.png)
-![image](https://user-images.githubusercontent.com/90050988/204032846-30f88cc8-c777-464d-94b9-4cbdee7c5839.png)
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50"/>       
+</div>
 
-
-## Estudando atualmente 
+## Formação
 *  *Análise e desenvolvimento* de  Sistemas - Anhanguera Educacional
+  
+## Estudando atualmente 
+  
 *  *Java Script* - Curso completo com Projeto reais - Instituto Udemy
 *  *Web design completo* -  App GetMimo
 *  *JavaScriptDeveloper* - DIO: Digital Innovation One 
