@@ -10,7 +10,7 @@ Idade: 35 anos.
 
 Natural: São José dos Campos/SP.
   
-<div align="center">
+<div>
   <a href="https://github.com/Luizfcs35/Luizfcs35/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizfcs35&show_icons=true&theme=codeSTACKr&border_radius=1em" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfcs35&layout=compact&theme=codeSTACKr&border_radius=1em" />
@@ -54,7 +54,7 @@ Natural: São José dos Campos/SP.
   
 * [Linkedin](https://www.linkedin.com/in/luiz-fernando-castro-de-souza-18991a189/)
   
-![Snake animation](https://github.com/seu-usuário-aqui/Luizfcs35/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Luizfcs35/Luizfcs35/blob/output/github-contribution-grid-snake.svg)
   
 <!---
 Luizfcs35/Luizfcs35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
