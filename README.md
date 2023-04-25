@@ -12,8 +12,9 @@ Natural: São José dos Campos/SP.
   
 <div>
   <a href="https://github.com/Luizfcs35/Luizfcs35/">
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=Luizfcs35&show_icons=true&theme=codeSTACKr&border_radius=1em" />
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfcs35&layout=compact&theme=codeSTACKr&border_radius=1em" />
+  <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=Luizfcs35&show_icons=true&theme=codeSTACKr&border_radius=1.7em" />
+    
+  <img height="190em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfcs35&layout=compact&theme=codeSTACKr&border_radius=1em" />
 </div> 
    
 
