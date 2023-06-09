@@ -50,9 +50,11 @@
 ![Snake animation](https://github.com/Luizfcs35/Luizfcs35/blob/output/github-contribution-grid-snake.svg)
   
 
- <h5 align="center" width="100%"> "Não tenha medo do caminho,</h5>
- <h5 align="center" width="100%">Tenha medo de não Caminhar".</h5>
- <cite align="center" width="100%"> Augusto C. </cite>
+ <div align="center" width="100%">
+   <p> "Não tenha medo do caminho,</p>
+   <p>Tenha medo de não Caminhar".</p>
+   <cite> Augusto C. </cite>
+ </div>
   
   
 <!---
