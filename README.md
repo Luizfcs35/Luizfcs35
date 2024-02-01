@@ -2,13 +2,13 @@
 
 #  *Olá me chamo Luiz*
   
-  Sou apaixonado por tecnologia, recém formado em Análise e Desenvolvimento de Sistemas!
+ Apaixonado por tech, formado em Análise e Desenvolvimento de Sistemas e Estudante Front-End!
   
   ## *Interesses*
   
-  A procura de uma oportunidade na área de programação, estágio e júnior.
+  À procura de uma oportunidade na área de programação, enquanto não tenho continuo na jornada dos estudos.
   
-  Tenho 36 anos, sou natural de São José dos Campos/SP, adoro aprender coisas novas e amo viajar!
+  Tenho 37 anos, sou natural de São José dos Campos/SP, adoro aprender coisas que me agregue valores e curto muito viajar!
   
   Focado nos estudos, aprendendo lógica, linguagens e frameworks!!!
   
